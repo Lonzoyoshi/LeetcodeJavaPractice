@@ -1,4 +1,4 @@
-package Leetcode.Simple100;
+package Leetcode.SimpleQus;
 
 /**
  * 力扣42 接雨水

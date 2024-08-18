@@ -1,4 +1,4 @@
-package Leetcode.Simple100;
+package Leetcode.SimpleQus;
 
 public class Palindrome {
     private int x = 121;

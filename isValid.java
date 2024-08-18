@@ -1,4 +1,4 @@
-package Leetcode.Simple100;
+package Leetcode.SimpleQus;
 
 import java.util.Map;
 import java.util.HashMap;

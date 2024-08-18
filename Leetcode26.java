@@ -1,8 +1,6 @@
-package Leetcode.Simple100;
+package Leetcode.SimpleQus;
 
 import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Objects;
 
 /**
  * 删除有序数组中的重复项

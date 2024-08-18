@@ -1,4 +1,4 @@
-package Leetcode.Simple100;
+package Leetcode.SimpleQus;
 
 /**
  * 最后一个单词的长度

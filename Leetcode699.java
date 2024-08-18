@@ -1,6 +1,5 @@
-package Leetcode.Simple100;
+package Leetcode.SimpleQus;
 
-import java.net.Inet4Address;
 import java.util.*;
 
 

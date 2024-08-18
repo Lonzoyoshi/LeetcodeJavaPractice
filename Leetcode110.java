@@ -1,4 +1,4 @@
-package Leetcode.Simple100;
+package Leetcode.SimpleQus;
 
 /**
  * 平衡二叉树

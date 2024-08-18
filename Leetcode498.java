@@ -1,6 +1,5 @@
-package Leetcode.Simple100;
+package Leetcode.SimpleQus;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 /**

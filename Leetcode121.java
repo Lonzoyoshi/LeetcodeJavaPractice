@@ -1,6 +1,4 @@
-package Leetcode.Simple100;
-
-import java.net.Inet4Address;
+package Leetcode.SimpleQus;
 
 /**
  * 买卖股票的最佳时机
